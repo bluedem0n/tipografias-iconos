@@ -1,2 +1,0 @@
-# tipografias-iconos
-Icon Menu
